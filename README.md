@@ -13,7 +13,7 @@ I'm a **Software Engineering student at FPT University Da Nang**, passionate abo
 
 I enjoy turning complex problems into simple, elegant, and maintainable solutions — especially in backend architecture and API design.
 
-- 🚀 Currently building AI Github Saas using **Nextjs,Clerk,Postgres,Prisma**
+- 🚀 Currently building AI Github Saas using **Nextjs, Clerk, Postgres & Prisma**
 - 💬 Strong in **Node.js, TypeScript, MongoDB, RESTful APIs & System Design fundamentals**
 - 🧠 Interested in **Backend Architecture, Performance Optimization & Clean Code**
 - 📫 Contact me at: **anhkn7@gmail.com**
