@@ -1,6 +1,3 @@
-# GitHub Profile README — NTA1210
-
-```markdown
 <div align="center">
 
 # Hi, I'm Nguyễn Tuấn Anh 👋
@@ -113,4 +110,4 @@ I work in Agile teams through requirement clarification, task breakdown, code re
 
 - LinkedIn: [nguyen-tuan-anh-fullstack](https://www.linkedin.com/in/nguyen-tuan-anh-fullstack/)
 - Email: [anhkn7@gmail.com](mailto:anhkn7@gmail.com)
-```
+
